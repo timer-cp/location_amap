@@ -1,7 +1,7 @@
 name: location_amap
-description: A new Flutter plugin.
-version: 0.0.1
-homepage:
+description: 高德地图定位Flutter插件包.
+version: 0.2.1
+homepage: https://github.com/timer-cp/location_amap
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
